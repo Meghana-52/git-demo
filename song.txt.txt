@@ -1,2 +1,4 @@
 Hi Welcome to Github
 This is my first git project
+I am trying to pull changes in remote repository to local files
+git pull command is used for this
